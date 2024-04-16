@@ -1,0 +1,8 @@
+.Task-Input-Container {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+.Task-Input-Container TextField {
+  flex: 1;
+}

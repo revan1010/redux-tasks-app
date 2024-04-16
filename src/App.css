@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.title-part h1 {
+  margin: 0;
+}
+.app {
+  border: 1px solid black;
+  padding: 10px;
+  width: 550px;
+}
